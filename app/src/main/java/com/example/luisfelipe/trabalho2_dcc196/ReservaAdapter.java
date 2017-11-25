@@ -35,7 +35,7 @@ public class ReservaAdapter extends CursorAdapter {
         textNome.setText(nome);
     }
     public void atualizar(String idLivro) {
-        String rawQuery = ReservaContract.SQL_CONSULTA_RESERVAS;//+"WHERE"+LivroContract.Livro._ID +"="+idLivro;
+        String rawQuery = ReservaContract.SQL_CONSULTA_RESERVAS+" WHERE "+ReservaContract.Reserva.COLUMN_NAME_LIVRO +"="+idLivro;
 
 
         try {
