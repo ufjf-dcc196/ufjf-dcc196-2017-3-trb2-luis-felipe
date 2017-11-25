@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Trb2_dcc196_luisfelipe</string>
+    <string name="b_cadastro_participante">Cadastrar Participante</string>
+    <string name="b_realizar_cadastro_participante">Adicionar</string>
+    <string name="dica_email">Email</string>
+    <string name="dica_nome">Nome</string>
+    <string name="b_voltar">Voltar</string>
+    <string name="b_concluir_cadastro">Concluir</string>
+    <string name="b_cancelar">Cancelar</string>
+    <string name="tex_recem_cadastrados">Recem Cadastrados</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="ano">Ano</string>
+    <string name="editora">Editora</string>
+    <string name="titulo">Título</string>
+    <string name="cadastrar_livro">Cadastrar Livro</string>
+    <string name="participantes">Participantes:</string>
+    <string name="livros">Livros:</string>
+    <string name="cadastro_reserva">Cadastrar Reserva</string>
+    <string name="adicionar_reserva">Adicionar Reserva</string>
+    <string name="horario_entrada">Horário Entrada:</string>
+    <string name="horario_saida">Horário Saída:</string>
+    <string name="reservas">Reservas:</string>
+    <string name="l_ano">Ano:</string>
+</resources>
