@@ -1,5 +1,5 @@
 # ufjf-dcc196-2017-3-trb2-luis-felipe
-1. Luis Felipe de Almeida Nascimento 201465577C luis.felipe.almeida.nascimento
+1. Luis Felipe de Almeida Nascimento 201465577C luis.felipe.almeida.nascimento@gmail.com.br
 2. [Link para o modelo Relacional do Banco!](https://drive.google.com/file/d/14I2UUHmv9-AHgHEBfwC-1cRzPlL39r2j/view?usp=sharing)
 3. Crie um um aplicativo para Android O utilizando o Android Studio que faça o controle dos participantes de uma feira de livro seguindo as seguintes restrições:
 
